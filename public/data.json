@@ -1,214 +1,217 @@
 {
-    "basic_info": {
-      "name": "Brian Lau",
-      "titles": [ "Computer Science + Math Student", "Aspiring Data Scientist", "Aspiring Software Engineer"],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com",
-          "class": "fab fa-linkedin"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
-        },
-        {
-          "name": "strava",
-          "url": "https://www.strava.com",
-          "class": "fab fa-strava"
-        }
-      ],
-      "image": "BrianLau.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "Anaconda",
-          "class": "devicon-anaconda-plain",
-          "level": "95"
-        },
-        {
-          "name": "Apache Maven",
-          "class": "devicon-apache-plain",
-          "level": "95"
-        },
-        {
-          "name": "Bash",
-          "class": "devicon-bash-plain",
-          "level": "95"
-        },
-        {
-          "name": "C",
-          "class": "devicon-c-plain",
-          "level": "95"
-        },
-        {
-          "name": "C++",
-          "class": "devicon-cplusplus-plain",
-          "level": "95"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Django",
-          "class": "devicon-django-plain",
-          "level": "95"
-        },
-        {
-          "name": "Docker",
-          "class": "devicon-docker-plain",
-          "level": "95"
-        },
-        {
-          "name": "Flask",
-          "class": "devicon-flask-plain",
-          "level": "95"
-        },
-        {
-          "name": "GCC",
-          "class": "devicon-gcc-plain",
-          "level": "95"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
-          "level": "95"
-        },
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "95"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "95"
-        },
-        {
-          "name": "Jira",
-          "class": "devicon-jira-plain",
-          "level": "95"
-        },
-        {
-          "name": "Latex",
-          "class": "devicon-latex-plain",
-          "level": "95"
-        },
-        {
-          "name": "Jupyter",
-          "class": "devicon-jupyter-plain",
-          "level": "95"
-        },
-        {
-          "name": "MATLAB",
-          "class": "devicon-matlab-plain",
-          "level": "95"
-        },
-        {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
-          "level": "95"
-        },
-        {
-          "name": "Node JS",
-          "class": "devicon-nodejs-plain",
-          "level": "95"
-        },
-        {
-          "name": "Numpy",
-          "class": "devicon-numpy-plain",
-          "level": "95"
-        },
-        {
-          "name": "OCaml",
-          "class": "devicon-ocaml-plain",
-          "level": "95"
-        },
-        {
-          "name": "Pandas",
-          "class": "devicon-pandas-plain",
-          "level": "95"
-        },
-        {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "95"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "95"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "95"
-        },
-        {
-          "name": "Ruby",
-          "class": "devicon-ruby-plain",
-          "level": "95"
-        },
-        {
-          "name": "Rust",
-          "class": "devicon-rust-plain",
-          "level": "95"
-        },
-        {
-          "name": "SQLAlchemy",
-          "class": "devicon-sqlalchemy-plain",
-          "level": "95"
-        },
-        {
-          "name": "TailwindCSS",
-          "class": "devicon-tailwindcss-plain",
-          "level": "95"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "95"
-        },
-        {
-          "name": "Ubuntu",
-          "class": "devicon-ubuntu-plain",
-          "level": "95"
-        },
-        {
-          "name": "Unity",
-          "class": "devicon-unity-original",
-          "level": "95"
-        },
-        {
-          "name": "Unix",
-          "class": "devicon-unix-original",
-          "level": "95"
-        },
-        {
-          "name": "VSCode",
-          "class": "devicon-vscode-plain",
-          "level": "95"
-        }
-
-      ]
-    }
+  "basic_info": {
+    "name": "Brian Lau",
+    "titles": [
+      "Computer Science + Math Student",
+      "Aspiring Data Scientist",
+      "Aspiring Software Engineer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/beelauuu",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/brian-lau-462999220/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/blauu__/",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "strava",
+        "url": "https://www.strava.com/athletes/41098360",
+        "class": "fab fa-strava"
+      }
+    ],
+    "image": "BrianLau.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Anaconda",
+        "class": "devicon-anaconda-plain",
+        "level": "95"
+      },
+      {
+        "name": "Apache Maven",
+        "class": "devicon-apache-plain",
+        "level": "95"
+      },
+      {
+        "name": "Bash",
+        "class": "devicon-bash-plain",
+        "level": "95"
+      },
+      {
+        "name": "C",
+        "class": "devicon-c-plain",
+        "level": "95"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "95"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "95"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "95"
+      },
+      {
+        "name": "Flask",
+        "class": "devicon-flask-plain",
+        "level": "95"
+      },
+      {
+        "name": "GCC",
+        "class": "devicon-gcc-plain",
+        "level": "95"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "95"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Jira",
+        "class": "devicon-jira-plain",
+        "level": "95"
+      },
+      {
+        "name": "Latex",
+        "class": "devicon-latex-plain",
+        "level": "95"
+      },
+      {
+        "name": "Jupyter",
+        "class": "devicon-jupyter-plain",
+        "level": "95"
+      },
+      {
+        "name": "MATLAB",
+        "class": "devicon-matlab-plain",
+        "level": "95"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "95"
+      },
+      {
+        "name": "Node JS",
+        "class": "devicon-nodejs-plain",
+        "level": "95"
+      },
+      {
+        "name": "Numpy",
+        "class": "devicon-numpy-plain",
+        "level": "95"
+      },
+      {
+        "name": "OCaml",
+        "class": "devicon-ocaml-plain",
+        "level": "95"
+      },
+      {
+        "name": "Pandas",
+        "class": "devicon-pandas-plain",
+        "level": "95"
+      },
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain",
+        "level": "95"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "95"
+      },
+      {
+        "name": "Ruby",
+        "class": "devicon-ruby-plain",
+        "level": "95"
+      },
+      {
+        "name": "Rust",
+        "class": "devicon-rust-plain",
+        "level": "95"
+      },
+      {
+        "name": "SQLAlchemy",
+        "class": "devicon-sqlalchemy-plain",
+        "level": "95"
+      },
+      {
+        "name": "TailwindCSS",
+        "class": "devicon-tailwindcss-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Ubuntu",
+        "class": "devicon-ubuntu-plain",
+        "level": "95"
+      },
+      {
+        "name": "Unity",
+        "class": "devicon-unity-original",
+        "level": "95"
+      },
+      {
+        "name": "Unix",
+        "class": "devicon-unix-original",
+        "level": "95"
+      },
+      {
+        "name": "VSCode",
+        "class": "devicon-vscode-plain",
+        "level": "95"
+      }
+    ]
   }
+}

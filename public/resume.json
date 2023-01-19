@@ -98,16 +98,16 @@
         "url": "https://github.com/beelauuu/Strava-Jokes",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-flask-plain",
+            "name": "Flask"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }

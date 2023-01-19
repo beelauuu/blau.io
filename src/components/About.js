@@ -89,7 +89,7 @@ class About extends Component {
                     <br />
                     <div className="text-center">
                       <a
-                        href="src/components/BrianLauResume2023.pdf"
+                        href="BrianLauResume2023.pdf"
                         className="btn btn-primary btn-lg mx-auto"
                         style={{ backgroundColor: "white", color: "black" }}
                         download

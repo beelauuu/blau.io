@@ -22,11 +22,7 @@ class Experience extends Component {
           );
         });
         var tech = technologies.map((technology, i) => {
-          return (
-            <ul style={{ fontSize: '1.5rem' }}>
-              {technology}
-            </ul>
-          );
+          return <ul style={{ fontSize: "1.5rem" }}>{technology}</ul>;
         });
         return (
           <VerticalTimelineElement
