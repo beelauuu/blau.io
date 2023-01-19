@@ -1,19 +1,14 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import pythonIcon from "@iconify/icons-logos/python";
+import javaIcon from "@iconify/icons-logos/java";
+import ocamlIcon from "@iconify/icons-logos/ocaml";
 
 class About extends Component {
   render() {
-    if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
-    }
-    if (this.props.resumeBasicInfo) {
-      var sectionName = this.props.resumeBasicInfo.section_name.about;
-      var hello = this.props.resumeBasicInfo.description_header;
-      var about = this.props.resumeBasicInfo.description;
-    }
+    var profilepic = "images/BrianLau.jpg";
+    var sectionName = "About me";
+    var hello = "Hi, my name is Brian! 👋";
 
     return (
       <section id="about">
@@ -31,15 +26,15 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={pythonIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={reactIcon}
+                    icon={ocamlIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={javaIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
@@ -69,18 +64,39 @@ class About extends Component {
                     ></span>
                   </div>
                   <div
-                    className="card-body font-trebuchet text-justify ml-3 mr-3"
+                    className="card-body font-serif text-justify ml-3 mr-3"
                     style={{
                       height: "auto",
-                      fontSize: "132%",
+                      fontSize: "175%",
                       lineHeight: "200%",
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello}</span>
                     <br />
                     <br />
-                    {about}
+                    ⚫I'm a student at the University of Maryland: College Park
+                    pursuing a degree in Mathematics and Computer Science.
+                    <br />
+                    ⚫My interests include data science, web development, and
+                    functional programming.
+                    <br />
+                    ⚫I interned with Northrop Grumman this past summer and will
+                    be an SDE intern for Amazon this summer
+                    <br />
+                    ⚫Feel free to reach out about any opportunities or if you
+                    want to learn more about me.
+                    <br />
+                    <div className="text-center">
+                      <a
+                        href="src/components/BrianLauResume2023.pdf"
+                        className="btn btn-primary btn-lg mx-auto"
+                        style={{ backgroundColor: "white", color: "black" }}
+                        download
+                      >
+                        Click For My Resume!
+                      </a>
+                    </div>
                   </div>
                 </div>
               </div>

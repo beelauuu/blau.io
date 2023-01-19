@@ -1,0 +1,156 @@
+{
+    "basic_info": {
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Cloudify",
+        "startDate": "2023",
+        "description": "A Spotify-based web-application garnering over 5000 users which generated unique wordclouds based on a users top-50 artists. The backend is Python Flask and the frontend is vanilla JS/HTML/CSS. The CSS was a combination of bootstrap and manual formatting",
+        "images": [
+          "images/portfolio/cloudify/hearty.png",
+          "images/portfolio/cloudify/pacman.png"
+        ],
+        "url": "https://cloudify.herokuapp.com",
+        "technologies": [
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-yarn-plain",
+            "name": "Yarn"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "NBA Hall Of Fame Predictor",
+        "startDate": "2022",
+        "description": "Created, trained, and utilized two classification machine learning algorithms (KNN and Random Forest) to predict whether an NBA player will end up in the Hall of Fame following his career. On a blind dataset, the models achieved accuracies up to 98%. I also did a detailed write-up on the process and the steps I took in an .ipynb",
+        "images": [
+          "images/portfolio/nba/nba.gif"
+        ],
+        "url": "https://github.com/beelauuu/NBA-Hall-of-Fame-Predictor",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-anaconda-plain",
+            "name": "Anaconda"
+          },
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter Notebook"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
+          }
+        ]
+      },
+      {
+        "title": "Strava Jokes",
+        "startDate": "2021",
+        "description": "One of the first apps I personally did. I developed a webhook with a Python Flask app that would listen in on my Strava activities and run a Python script which appended a joke of the day onto my uploaded activities.",
+        "images": [
+          "images/portfolio/strava/strava.png",
+          "images/portfolio/strava/stravajoke.png"
+        ],
+        "url": "https://github.com/beelauuu/Strava-Jokes",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Software Development Engineering Intern",
+        "years": "05/2023 - 08/2023",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+         "• Currently scheduled to begin on May 30th, 2023."
+        ]
+      },
+      {
+        "company": "University of Maryland: CMNS",
+        "title": "Lead TA (CMSC131)",
+        "years": "05/2022 - Present",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "• Create rubrics and manage grading for exams and projects.",
+          "• Teach a discussion section of ~30 students on a bi-weekly basis, reviewing course content and exploring new topics.",
+          "• Hold weekly office hours for students, helping answer any questions and guide them on projects.",
+          "• Grade hundreds of projects and exams for style and accuracy."
+        ]
+      },
+      {
+        "company": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "years": "05/2022 - 08/2022",
+        "mainTech": [
+          "Java/Python"
+        ],
+        "technologies": [
+          "• Utilized the Atlassian SDK accompanied by HTML, Java, and Python to create a home made Jira plugin.",
+          "• Worked with the Jira REST API and web hooks to gather information on the current server.",
+          "• Created a Java servlet with a Java backend and Python + HTML/CSS frontend to display all plugin information onto the current Jira network.",
+          "• Employed Jenkins and Bitbucket to streamline more efficient builds and tests of the plugin."
+        ]
+      }
+    ]
+  }

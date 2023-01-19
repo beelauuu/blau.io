@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #FFF4BC;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -90,11 +90,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #FFF4BC;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #FFF4BC;
 	height: 25px;
 }
 
@@ -114,7 +114,8 @@ header h1 {
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Franklin Gothic Medium';
+	font-size: 2.5rem;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -172,7 +173,7 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 400px;
 }
 
 .polaroid span {
@@ -244,7 +245,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #FFF4BC !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -387,7 +388,8 @@ header h1 {
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Franklin Gothic Medium', sans-serif;
+	font-size: 2.5rem;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
