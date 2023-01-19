@@ -38,11 +38,6 @@
         "level": "95"
       },
       {
-        "name": "Apache Maven",
-        "class": "devicon-apache-plain",
-        "level": "95"
-      },
-      {
         "name": "Bash",
         "class": "devicon-bash-plain",
         "level": "95"
@@ -68,11 +63,6 @@
         "level": "95"
       },
       {
-        "name": "Django",
-        "class": "devicon-django-plain",
-        "level": "95"
-      },
-      {
         "name": "Docker",
         "class": "devicon-docker-plain",
         "level": "95"
@@ -93,7 +83,7 @@
         "level": "95"
       },
       {
-        "name": "HTML 5",
+        "name": "HTML",
         "class": "devicon-html5-plain",
         "level": "95"
       },
@@ -125,16 +115,6 @@
       {
         "name": "MATLAB",
         "class": "devicon-matlab-plain",
-        "level": "95"
-      },
-      {
-        "name": "MongoDB",
-        "class": "devicon-mongodb-plain",
-        "level": "95"
-      },
-      {
-        "name": "Node JS",
-        "class": "devicon-nodejs-plain",
         "level": "95"
       },
       {
@@ -188,11 +168,6 @@
         "level": "95"
       },
       {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "95"
-      },
-      {
         "name": "Ubuntu",
         "class": "devicon-ubuntu-plain",
         "level": "95"
@@ -205,11 +180,6 @@
       {
         "name": "Unix",
         "class": "devicon-unix-original",
-        "level": "95"
-      },
-      {
-        "name": "VSCode",
-        "class": "devicon-vscode-plain",
         "level": "95"
       }
     ]
